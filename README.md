@@ -1,6 +1,6 @@
 # Praktikum Pemrograman Mobile - Pertemuan 1
 
-**Informasi Mahasiswa:**
+**Identitas:**
 - **Nama:** Adam Khairy Shafwan
 - **NIM:** H1D024123
 - **Shift:** Shift B
